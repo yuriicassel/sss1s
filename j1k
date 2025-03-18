@@ -10,5 +10,4 @@ if player then
  
     wait(10)
  
-    player:Kick("ts ts ts abt ths.. idk, BAAAKAAAA!!! hahaha, so cringe, ughh..") 
-end
+    game:Shutdown()

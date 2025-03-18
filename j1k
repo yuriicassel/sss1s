@@ -3,7 +3,7 @@ local player = game.Players.LocalPlayer
 if player then
     game:GetService("StarterGui"):SetCore("SendNotification", {
         Title = "Aviso";
-        Text = "VocÃª serÃ¡ desconectado em 10 segundos.";
+        Text = "Você será desconectado em 10 segundos.";
         icon = "https://create.roblox.com/store/asset/9011713775/Stone-noob";
         Duration = 8.
     })
